@@ -1,5 +1,10 @@
 # 💫 About Me:
-Learning. Building. Improving.
+👨‍💻 I’m a Computer Technology student who enjoys building practical projects and learning new technologies.  
+🚀 Currently focused on web development and improving problem-solving skills.  
+🤝 Open to collaborating on open-source projects, hackathons, and innovative ideas.  
+🌱 Always curious to learn and grow through hands-on experience.  
+⚡ Fun fact: I love turning simple ideas into real, working products.
+
 
 
 ## 🌐 Socials:
